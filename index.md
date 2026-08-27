@@ -11,6 +11,7 @@ Hi, I'm "Oleh Pustovyi". Check out my repos!
 | Project Name | Web Page | Link |
 |--------------|----------|------|
 | mtc-backend-prod | n/a | [Github](https://github.com/olegpstv/mtc-backend-prod) |
+| mtc-frontend-prod | [Webpage](https://olegpstv.github.io/mtc-frontend-prod/) | [Github](https://github.com/olegpstv/mtc-frontend-prod) |
 | mtc-infra-prod | [Webpage](https://olegpstv.github.io/mtc-infra-prod/) | [Github](https://github.com/olegpstv/mtc-infra-prod) |
 
 ---
